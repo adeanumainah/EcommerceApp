@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EcommerceApp</string>
+    <string name="_large">Large</string>
+    <string name="_medium">Medium</string>
+    <string name="_short">Short</string>
+    <string name="_dean">Dean</string>
+    <string name="_masukan_text">masukan text</string>
+    <string name="_name">Name</string>
+    <string name="_add">Add Product</string>
+    <string name="_get">Get Product</string>
+</resources>
